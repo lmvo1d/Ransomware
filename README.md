@@ -26,8 +26,8 @@ A simple and secure **File Encryptor & Decryptor** built using **Python** and **
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/lmvo1d/ransomware.git
-   cd file-encryptor-decryptor
+   git clone https://github.com/lmvo1d/Ransomware.git
+   cd Ransomware
    ```
 
 2. **Install required dependency**
@@ -78,7 +78,7 @@ python decrypt.py
 ## 📂 Project Structure
 
 ```
-ransomware/
+Ransomware/
 │
 ├── generate_key.py        # Generates A Key
 ├── encrypt.py        # Encrypts the file
@@ -120,4 +120,5 @@ Contributions are welcome! Feel free to fork the repository, improve the code, a
 
 **Anadi Sharma**
 If you like this project, don’t forget to ⭐ the repository!
+
 
